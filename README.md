@@ -8,3 +8,6 @@ To use this code, please follow these steps:
 * Pip install necessary packages.
 * Make sure you put the python script and the two button images under the same path.
 * Make sure you have Internet connection and run the script 'Recorder6.py'
+
+NOTICE:
+This code is made for Chinese Mandarin speech recognition and synthesis only, considering the availability of APIs. Click on the button once to start recording your voice and click it again when done talking. The talking-bot will respond to you in Mandarin. Meanwhile, the text record of your conversation with the talking-bot will appear in the blank space above the button.
